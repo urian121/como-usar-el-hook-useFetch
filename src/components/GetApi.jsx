@@ -50,6 +50,3 @@ const GetApi = () => {
 };
 
 export default GetApi;
-/**
- * useFetch" es un gancho personalizado que maneja la lógica de la solicitud de red. Devuelve los datos, el estado de carga y cualquier error que ocurra durante la solicitud. Luego, en el componente "MyComponent", se utiliza este gancho para realizar una solicitud a una URL y mostrar los datos resultantes, el estado de carga o cualquier error
- */
